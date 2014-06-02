@@ -1,2 +1,1 @@
-agtlucas.github.io
-==================
+lucas.ninja
